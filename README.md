@@ -23,8 +23,7 @@ Requirements:_
 - Matplotlib
 - Seaborn
 
-- Dataset Attribution
-- 
+ Dataset Attribution
 This project uses the LoanTap dataset licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). 
 
 
