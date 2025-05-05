@@ -1,6 +1,7 @@
 Introduction:-
 
 Welcome to the LoanTap repository.
+
 This project explores the application of logistic regression to predict loan approvals within the LoanTap app, aimed at simplifying and optimizing loan decision-making.
 
 
